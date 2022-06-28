@@ -20,7 +20,7 @@ const CartDetail = () => {
   const { cart, totalCart } = useContext(CartContext);
 
   return (
-    <Flex flexDirection={'column'} width='60%' mx={20}>
+    <Flex flexDirection={'column'} width='60%' mx={20} >
       <Box
         backgroundColor='white'
         //border='1px solid #c5caff'

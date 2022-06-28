@@ -17,6 +17,7 @@ const CartEmpty = () => {
       rounded={10}
       width={'70%'}
       shadow='md'
+      marginBottom={24}
     >
       <Text
         fontWeight={700}
