@@ -92,3 +92,7 @@ Deberías completar con tus datos de API siguiendo el ejemplo de variables de en
 - REACT_APP_storageBucket=
 - REACT_APP_messagingSenderId=
 - REACT_APP_appId=
+
+## Autor
+
+- Diego Barros Sofio
