@@ -80,7 +80,7 @@ En la pagina principal encontramos la Navbar la cual contiene el nombre del siti
 
 - CartContextProvider: Inyecta nuestras funciones para mantener el estado de compra en el carrito. AddItems, agrega el item seleccionado al carrito y comprueba por medio de isInCart si el item ya se encuentra en el carrito, si es verdadero solo suma la cantidad del mismo. removeItems elimina el item seleccionado del carrito de compras. removeCart vacía todo el carrito de compras. getQuantity recibe la cantidad de productos seleccionados. totalCart se encarga de sumar el total a pagar según la cantidad de productos agregados y el precio. addCantidad y removeCantidad se encargan de agregar o restar la cantidad de productos que ya estan en el carrito. Cada función relevante incluye un sessionStorage, para que al actualizar la página no se pierdan los datos del usuario.
 
--Formulario: En el formulario vamos a tomar los datos importantes del usuario para poder generar la orden de compra correspondiente. Tiene inputs requeridos, que si no estan llenos y corresponden al tipo de inputo el botón de enviar no va a estar disponible. Este botón tampoco va a estar disponible si el carrito esta vacio.
+- Formulario: En el formulario vamos a tomar los datos importantes del usuario para poder generar la orden de compra correspondiente. Tiene inputs requeridos, que si no estan llenos y corresponden al tipo de inputo el botón de enviar no va a estar disponible. Este botón tampoco va a estar disponible si el carrito esta vacio.
 
 ## Utilización de Firebase
 
