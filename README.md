@@ -86,9 +86,9 @@ En la pagina principal encontramos la Navbar la cual contiene el nombre del siti
 
 Deberías completar con tus datos de API siguiendo el ejemplo de variables de entorno para conectar tu proyecto con firestore respetando los datos de la colección de productos detallada más arriba.
 
-REACT_APP_apiKey=
-REACT_APP_authDomain=
-REACT_APP_projectId=
-REACT_APP_storageBucket=
-REACT_APP_messagingSenderId=
-REACT_APP_appId=
+||REACT_APP_apiKey=
+||REACT_APP_authDomain=
+||REACT_APP_projectId=
+||REACT_APP_storageBucket=
+||REACT_APP_messagingSenderId=
+||REACT_APP_appId=
