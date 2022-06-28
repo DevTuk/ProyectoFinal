@@ -99,4 +99,4 @@ Deberías completar con tus datos de API siguiendo el ejemplo de variables de en
 
 ## Autor
 
-- Diego Barros Sofio
+- [Diego Barros Sofio](https://www.linkedin.com/in/diego-barros-sofio-355725168/)
