@@ -12,7 +12,7 @@ import { Link } from 'react-router-dom';
 
 const Items = ({ id, nombre, imagen, precio }) => {
   return (
-    <Stack>
+    <Stack marginBottom={24}>
       <Box
         background='#ffffff'
         margin={5}

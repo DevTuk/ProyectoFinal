@@ -4,12 +4,10 @@ const Footer = () => {
     <>
       <Stack
         height='10vh'
-        marginTop='50vh'
+        
         backgroundColor='white'
         roundedTop={24}
         minWidth='sm'
-        position='fixed'
-        bottom='0px'
         width='100%'
         shadow='md'
       >

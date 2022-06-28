@@ -13,7 +13,7 @@ function App() {
   return (
     <ChakraProvider theme={theme}>
       <CartContextProvider>
-        <BrowserRouter>
+        <BrowserRouter marginBotton='500px'>
           <Header />
           <Routes>
             <Route path='/' element={<ItemListContainer />} />

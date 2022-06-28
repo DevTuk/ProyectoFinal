@@ -34,7 +34,7 @@ const Cart = () => {
 
   return (
     <>
-      <Center>
+      <Center marginBottom='40vh'>
         <Flex
           alignSelf={'center'}
           flexDirection={{ base: 'column', sm: 'row' }}

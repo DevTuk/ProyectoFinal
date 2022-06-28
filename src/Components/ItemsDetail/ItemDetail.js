@@ -36,12 +36,18 @@ const ItemDetail = ({ id, stock, imagen, nombre, precio, descripcion }) => {
   };
 
   return (
-    <Container maxWidth={'7xl'} background='white' rounded={24} shadow='md'>
+    <Container
+      maxWidth={'7xl'}
+      background='white'
+      rounded={24}
+      shadow='md'
+      marginBottom={24}
+    >
       <Stack
         // align='center'
         textAlign='center'
-        spacing={{ base:8, md: 10 }}
-        paddingY={{ base: 10, md:24 }}
+        spacing={{ base: 8, md: 10 }}
+        paddingY={{ base: 10, md: 24 }}
         direction={{ base: 'column', md: 'row' }}
       >
         <Flex

@@ -162,7 +162,7 @@ const Formulario = () => {
   }
   const onSubmit = (data, e) => {};
   return (
-    <Center>
+    <Center marginBottom={24}>
       <VStack maxWidth={800} mx={15}>
         <Heading textAlign='start' mb={5}>
           Completa los datos para finalizar tu compra
