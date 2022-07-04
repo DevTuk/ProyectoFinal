@@ -7,7 +7,7 @@ Ecommerce de ropa de diseño independiente.
 Para realizar la clonacion del proyecto, ejecutar en la consola:
 
 ```bash
-  git clone https://github.com/DevTuk/React-Js.git
+  git clone https://github.com/DevTuk/ProyectoFinal
 ```
 
 Y ejecutar :
